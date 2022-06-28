@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo-Dev-Club" src="./img/capa-alura-mesha.png" width = 250px>
+    <img alt="Logo-Dev-Club" src="./img/capa-alura-mesha.png" width = 450px>
 </h1>
 
 <p align="center">
